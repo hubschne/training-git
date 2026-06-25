@@ -86,6 +86,25 @@ rm draft.txt
 
 ---
 
+## Senta Tests
+
+She is writing Code.
+
+```bash
+rm <doodle>
+```
+
+Example:
+
+```bash
+rm woop.txt
+```
+
+> This is a different comment
+
+
+---
+
 ## Copy a File
 
 Creates a copy of a file.
