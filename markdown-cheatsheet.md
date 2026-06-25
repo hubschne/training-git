@@ -16,19 +16,34 @@ Use hashtags (`#`) to create headers. The number of hashtags determines the leve
 ## Formatting text
 
 ### Italic
-
+*italic* or _italic_
 
 ### Bold
-
+**bold** or __bold__
 
 ## Creating Lists
-
+- Item one
+- Item two
+  - Nested item
 
 ## Adding Links
-
+1. First
+2. Second
+3. Third
 
 ## Adding Images
+[Example](https://example.com)
 
+<!-- With a tooltip -->
+[Link text](https://example.com "Tooltip text")
 
 ## Adding code
+Inline
 
+Use `backticks` for inline code.
+
+Block
+```python
+def hello():
+    print("Hello, world!")
+```
