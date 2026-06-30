@@ -96,6 +96,10 @@ git push
 
 If everything worked out, you can go on github, refresh the page, and see your changes online.
 
+at the end of your work, it's common to go back to the main branch. You can do that with 
+```bash
+git switch main
+```
 ## Pull request
 
 A Pull Request (PR) is a request to merge your changes from one branch into another (usually into `main`). It allows others to review your work before it becomes part of the project.
