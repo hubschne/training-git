@@ -16,7 +16,9 @@ Use hashtags (`#`) to create headers. The number of hashtags determines the leve
 ## Formatting text
 
 ### Italic
+```md
 *italic* or _italic_
+```
 
 ### Bold
 **bold** or __bold__
